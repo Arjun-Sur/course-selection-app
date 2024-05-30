@@ -1,0 +1,814 @@
+{
+  "seniorCourses": {
+    "E1541/S": {
+      "name": "English 12",
+      "category": "english",
+      "term": "both",
+      "required": "english-requirement",
+      "preparatory": true
+    },
+    "E1542/S": {
+      "name": "AP English Literature",
+      "category": "english",
+      "term": "both",
+      "required": "english-requirement",
+      "preparatory": true
+    },
+    "S3573": {
+      "name": "AP American Government/AP Macroeconomics",
+      "category": "social-science",
+      "term": "fall",
+      "required": "social-science-requirement",
+      "preparatory": true
+    },
+    "S3573S": {
+      "name": "AP American Government/Economics",
+      "category": "social-science",
+      "term": "spring",
+      "required": "social-science-requirement",
+      "preparatory": true
+    },
+    "S3586S": {
+      "name": "AP Macroeconomics/American Government",
+      "category": "social-science",
+      "term": "spring",
+      "required": "social-science-requirement",
+      "preparatory": true
+    },
+    "S3571/S": {
+      "name": "American Government/Economics",
+      "category": "social-science",
+      "term": "both",
+      "required": "social-science-requirement",
+      "preparatory": true
+    },
+    "M2580/S": {
+      "name": "Intro to Calculus",
+      "category": "mathematics",
+      "term": "both",
+      "preparatory": true
+    },
+    "M2584/S": {
+      "name": "AP Calculus AB",
+      "category": "mathematics",
+      "term": "both",
+      "preparatory": true
+    },
+    "M2585S": {
+      "name": "AP Calculus BC",
+      "category": "mathematics",
+      "term": "spring",
+      "preparatory": true
+    },
+    "M2661/S": {
+      "name": "Statistics",
+      "category": "mathematics",
+      "term": "both",
+      "preparatory": true
+    },
+    "M2651/S": {
+      "name": "AP Statistics",
+      "category": "mathematics",
+      "term": "both",
+      "preparatory": true
+    },
+    "M2654/S": {
+      "name": "Calculus III/Linear Algebra",
+      "category": "mathematics",
+      "term": "both",
+      "preparatory": false
+    },
+    "M2663/S": {
+      "name": "Advanced Topics in Math",
+      "category": "mathematics",
+      "term": "both",
+      "preparatory": true
+    },
+    "M2578/S": {
+      "name": "Advanced Math for Decision Making",
+      "category": "mathematic"
+    }
+  },
+  "generatedSeniorCourses": {
+    "E1541/S": {
+      "name": "English 12",
+      "category": "english",
+      "preparatory": true
+    },
+    "E1542/S": {
+      "name": "AP English Literature",
+      "category": "english",
+      "preparatory": true
+    },
+    "S3573": {
+      "name": "AP American Government",
+      "category": "social science",
+      "preparatory": true
+    },
+    "AP Macroeconomics": {
+      "name": "AP Macroeconomics",
+      "category": "social science",
+      "preparatory": true
+    },
+    "S3573S": {
+      "name": "AP American Government",
+      "category": "social science",
+      "preparatory": true
+    },
+    "Economics": {
+      "name": "Economics",
+      "category": "social science",
+      "preparatory": false
+    },
+    "S3586S": {
+      "name": "AP Macroeconomics",
+      "category": "social science",
+      "preparatory": true
+    },
+    "S3571/S": {
+      "name": "American Government",
+      "category": "social science",
+      "preparatory": true
+    },
+    "M2580/S": {
+      "name": "Intro to Calculus",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2584/S": {
+      "name": "AP Calculus AB",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2585S": {
+      "name": "AP Calculus BC",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2661/S": {
+      "name": "Statistics",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2651/S": {
+      "name": "AP Statistics",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2654/S": {
+      "name": "Calculus III/Linear Algebra",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2663/S": {
+      "name": "Advanced Topics in Math",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2578/S": {
+      "name": "Advanced Math for Decision Making",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "M2803/S": {
+      "name": "Personal Financial Literacy",
+      "category": "mathematics",
+      "preparatory": true
+    },
+    "R4571/S": {
+      "name": "AP Biology",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4569/S": {
+      "name": "AP Chemistry",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4568S": {
+      "name": "Organic Chemistry",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4519/S": {
+      "name": "Physics: Of the Universe",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4657": {
+      "name": "AP Physics 1",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4658S": {
+      "name": "AP Physics 2",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4653": {
+      "name": "AP Physics C: EM",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4651/S": {
+      "name": "AP Environmental Science",
+      "category": "science",
+      "preparatory": true
+    },
+    "R4964/S": {
+      "name": "Anatomy & Physiology",
+      "category": "science",
+      "preparatory": true
+    },
+    "E1950": {
+      "name": "College Application Seminar",
+      "category": "english electives",
+      "preparatory": false
+    },
+    "E1653/S": {
+      "name": "Creative Writing",
+      "category": "english electives",
+      "preparatory": true
+    },
+    "E1650/S": {
+      "name": "Modern Epic",
+      "category": "english electives",
+      "preparatory": true
+    },
+    "E1667/S": {
+      "name": "Ethnic Literature",
+      "category": "english electives",
+      "preparatory": true
+    },
+    "S3955/S": {
+      "name": "Film & Society",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3652/S": {
+      "name": "Psychology",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3556/S": {
+      "name": "Non-Western World History",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3665/S": {
+      "name": "Popular Culture",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3958/S": {
+      "name": "Social Justice",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3654/S": {
+      "name": "Sociology",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3653/S": {
+      "name": "AP Psychology",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3662/S": {
+      "name": "AP European History",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "S3954/S": {
+      "name": "Current Issues",
+      "category": "social science electives",
+      "preparatory": true
+    },
+    "G5661": {
+      "name": "French 1",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5662S": {
+      "name": "French 2",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5663": {
+      "name": "French 3",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5664S": {
+      "name": "French 4",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5665": {
+      "name": "French 5",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5666S": {
+      "name": "AP French Language",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5671": {
+      "name": "Japanese 1",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5672S": {
+      "name": "Japanese 2",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5673": {
+      "name": "Japanese 3",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5674S": {
+      "name": "Japanese 4",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5675": {
+      "name": "Japanese 5",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5677S": {
+      "name": "AP Japanese Language/Culture",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5651": {
+      "name": "Am. Sign Lang. 1",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5652S": {
+      "name": "Am. Sign Lang. 2",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5653": {
+      "name": "Am. Sign Lang. 3",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5654S": {
+      "name": "Am. Sign Lang. 4",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5681/S": {
+      "name": "Spanish 1",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5682/S": {
+      "name": "Spanish 2",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5683/S": {
+      "name": "Spanish 3",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5684/S": {
+      "name": "Spanish 4",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5685": {
+      "name": "Spanish 5",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5686S": {
+      "name": "AP Spanish Language",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5572": {
+      "name": "Chinese 1",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5574S": {
+      "name": "Chinese 2",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5678": {
+      "name": "Chinese 3",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5679S": {
+      "name": "Chinese 4",
+      "category": "world language",
+      "preparatory": true
+    },
+    "G5560": {
+      "name": "Chinese 5",
+      "category": "world language",
+      "preparatory": false
+    },
+    "G5680S": {
+      "name": "AP Chinese",
+      "category": "world language",
+      "preparatory": true
+    },
+    "B6572/S": {
+      "name": "Acting I",
+      "category": "performing arts",
+      "preparatory": true
+    },
+    "B6573": {
+      "name": "Intermediate Acting",
+      "category": "performing arts",
+      "preparatory": false
+    },
+    "B6574": {
+      "name": "Advanced Acting",
+      "category": "performing arts",
+      "preparatory": false
+    },
+    "B6575": {
+      "name": "Advanced Drama Honors",
+      "category": "performing arts",
+      "preparatory": false
+    },
+    "B6577S": {
+      "name": "Musical Theater Production",
+      "category": "performing arts",
+      "preparatory": true
+    },
+    "B6579S": {
+      "name": "Advanced Musical Theater Production",
+      "category": "performing arts",
+      "preparatory": true
+    },
+    "B6666/S": {
+      "name": "Orchestra",
+      "category": "performing arts",
+      "preparatory": true
+    },
+    "B6668/S": {
+      "name": "Symphonic Band",
+      "category": "performing arts",
+      "preparatory": true
+    },
+    "B6651/S": {
+      "name": "Chorus",
+      "category": "performing arts",
+      "preparatory": true
+    },
+    "B6552/S": {
+      "name": "Drawing & Design",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6548/S": {
+      "name": "Advanced Drawing",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6554/S": {
+      "name": "Sculpture",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6555/S": {
+      "name": "Advanced Sculpture",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6556/S": {
+      "name": "Painting",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6562/S": {
+      "name": "Fine Art Digital Photography",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6563/S": {
+      "name": "Advanced Digital Photography",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6560/S": {
+      "name": "Digital Art & Design",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6559S": {
+      "name": "Advanced Digital Art & Design",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6581/S": {
+      "name": "Video Film",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6955/S": {
+      "name": "Advanced Video Film",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6569/S": {
+      "name": "Seminar in Art",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6532": {
+      "name": "AP Drawing",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6530": {
+      "name": "AP 2D Art and Design",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6531": {
+      "name": "AP 3D Art and Design",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "B6565/S": {
+      "name": "AP Art History",
+      "category": "visual arts",
+      "preparatory": true
+    },
+    "P0550/S": {
+      "name": "Physical Education",
+      "category": "physical education",
+      "preparatory": true
+    },
+    "P0563/S": {
+      "name": "Intro to Dance II (Level 2)",
+      "category": "physical education",
+      "preparatory": true
+    },
+    "P0562/S": {
+      "name": "Intermediate Dance (Level 3)",
+      "category": "physical education",
+      "preparatory": true
+    },
+    "P0565/S": {
+      "name": "Fitness Walking",
+      "category": "physical education",
+      "preparatory": true
+    },
+    "P0955": {
+      "name": "Sports Performance Training",
+      "category": "physical education",
+      "preparatory": false
+    },
+    "P0573S": {
+      "name": "Surf PE (own transportation required)",
+      "category": "physical education",
+      "preparatory": true
+    },
+    "P0575/S": {
+      "name": "Weight Training",
+      "category": "physical education",
+      "preparatory": true
+    },
+    "E1662/S": {
+      "name": "Speech and Debate",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "E1651/S": {
+      "name": "Journalism",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "E1652/S": {
+      "name": "Advanced Journalism",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "E1655/S": {
+      "name": "Yearbook",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7668/S": {
+      "name": "Photo Imaging",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7684": {
+      "name": "Digital Composition",
+      "category": "practical arts",
+      "preparatory": false
+    },
+    "K7685S": {
+      "name": "Recording Arts",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7687/S": {
+      "name": "Advanced Recording Arts",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7512/S": {
+      "name": "Stagehand Technician",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7952/S": {
+      "name": "Intro to Business",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7585/S": {
+      "name": "Business Finance",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7551S": {
+      "name": "Advanced Business Management",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7670": {
+      "name": "Marketing Principles",
+      "category": "practical arts",
+      "preparatory": false
+    },
+    "A7521/S": {
+      "name": "Work Experience – must have job",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7520/S": {
+      "name": "Internship – must have internship",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7648/S": {
+      "name": "Computer Science Foundations",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7649S": {
+      "name": "Exploring Computer Science",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7507": {
+      "name": "Computer Game Design",
+      "category": "practical arts",
+      "preparatory": false
+    },
+    "A7590/S": {
+      "name": "AP Comp Science Principles",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "A7653/S": {
+      "name": "AP Computer Science A",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7657/S": {
+      "name": "Intro to Engineering",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7654/S": {
+      "name": "Digital Electronics",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7567S": {
+      "name": "Machine Learning",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "K7672/S": {
+      "name": "Adv. Engineering & Technology",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "R4967/S": {
+      "name": "Biotechnology I",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "R4968/S": {
+      "name": "Biotechnology II",
+      "category": "practical arts",
+      "preparatory": true
+    },
+    "M2755/S": {
+      "name": "Math Support",
+      "category": "support classes",
+      "preparatory": true
+    },
+    "E1758/S": {
+      "name": "Academic Survival 12",
+      "category": "support classes",
+      "preparatory": true
+    },
+    "Y8601/S": {
+      "name": "Unscheduled 1st period",
+      "category": "support classes",
+      "preparatory": true
+    },
+    "Y8602/S": {
+      "name": "Unscheduled 2nd period",
+      "category": "support classes",
+      "preparatory": true
+    },
+    "Y8603/S": {
+      "name": "Unscheduled 3rd period",
+      "category": "support classes",
+      "preparatory": true
+    },
+    "Y8604/S": {
+      "name": "Unscheduled 4th period",
+      "category": "support classes",
+      "preparatory": true
+    },
+    "B6655/S": {
+      "name": "Advanced Chorus",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "B6682/S": {
+      "name": "Chamber Orchestra",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "B6667/S": {
+      "name": "Wind Ensemble",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "B6665/S": {
+      "name": "Jazz Band",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "K7676/S": {
+      "name": "Rock Band/Music Industry",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "B6712/S": {
+      "name": "Cinema Lab",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "A7511/S": {
+      "name": "Digital Media Production",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "B6970": {
+      "name": "Advanced Dance (Level 4)",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "B6691S": {
+      "name": "Dance Choreography",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "Y8680/S": {
+      "name": "Peer Assistance Listeners (PALS)",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "Y8688/S": {
+      "name": "Peer Tutoring",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "P0662/S": {
+      "name": "PE Credit/Athletics pd. 5",
+      "category": "application/audition only",
+      "preparatory": true
+    },
+    "ASB": {
+      "name": "ASB",
+      "category": "application/audition only",
+      "preparatory": false
+    }
+  }
+}
